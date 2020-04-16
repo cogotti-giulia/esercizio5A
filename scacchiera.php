@@ -1,7 +1,7 @@
 <html>
     <body bgColor=yellow> 
         <?php
-            echo "<br><br><br><br><br><br><br><br><br><br>"; //va a capo tre volte
+            echo "<br><br>";
 
             for($r=0; $r<8; $r++){ //scorre le righe
                 /*align allinea la tabella al centro della pagina, rules=all toglie lo spazio tra le celle*/
