@@ -20,14 +20,14 @@ echo "<html><body bgColor=yellow> ";
        echo "<br>cogotti giulia</center>";
 
 
-        for(I=1;I<=5;I++){
-           for(J=1;J<=5;J++){
-                if(J<=I)
+        for($I=1; $I<=5; $I++){
+           for($J=1; $J<=5; $J++){
+                if($J<=$I)
                     echo"  *  ";
                 else
                     echo"     ";
 
-                if(J>=I)
+                if($J>=$I)
 
                    echo"   *  ";
 
