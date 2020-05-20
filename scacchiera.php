@@ -1,6 +1,6 @@
-<html>
-    <body bgColor=yellow> 
-        <?php
+<?php
+echo "<html><body bgColor=yellow> ";
+       
             echo "<br><br>";
 
             for($r=0; $r<8; $r++){ //scorre le righe
@@ -16,6 +16,5 @@
                 echo "</tr> </table>";
 
             }
-        ?>
-    </body>
-</html>
+echo " </body></html>";
+?>
