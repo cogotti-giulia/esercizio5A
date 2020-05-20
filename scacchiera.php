@@ -1,7 +1,7 @@
 <?php
 echo "<html><body bgColor=yellow> ";
        
-            echo "<br><br>";
+            echo "<br><br><center>";
 
             for($r=0; $r<8; $r++){ //scorre le righe
                 /*align allinea la tabella al centro della pagina, rules=all toglie lo spazio tra le celle*/
@@ -13,8 +13,10 @@ echo "<html><body bgColor=yellow> ";
                         else
                             echo "<td height=50 width=50; bgColor=white>"; 
                     }
-                echo "</tr> </table><br>cogotti giulia";
+                echo "</tr> </table>";
 
             }
+
+       echo "<br>cogotti giulia</center>";
 echo " </body></html>";
 ?>
