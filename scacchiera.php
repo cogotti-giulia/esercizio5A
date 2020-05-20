@@ -23,21 +23,21 @@ echo "<html><body bgColor=yellow> ";
         for($I=1; $I<=5; $I++){
            for($J=1; $J<=5; $J++){
                 if($J<=$I)
-                    echo"  *  ";
+                    echo"&nbsp;&nbsp;*&nbsp;&nbsp;";
                 else
-                    echo"     ";
+                    echo"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
 
                 if($J>=$I)
 
-                   echo"   *  ";
+                   echo"&nbsp;&nbsp;*&nbsp;&nbsp;";
 
 
                 else
-                    echo"     ";
+                    echo"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
 
                 
             }
-     
+              echo "<br>";
         }
 
 echo " </body></html>";
