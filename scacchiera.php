@@ -13,7 +13,7 @@ echo "<html><body bgColor=yellow> ";
                         else
                             echo "<td height=50 width=50; bgColor=white>"; 
                     }
-                echo "</tr> </table>";
+                echo "</tr> </table><br>cogotti giulia";
 
             }
 echo " </body></html>";
