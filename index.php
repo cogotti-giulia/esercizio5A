@@ -1,1 +1,1 @@
-<?php include_once("schacchiera.php"); ?>
+<?php include_once("index.html"); ?>
