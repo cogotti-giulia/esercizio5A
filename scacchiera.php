@@ -1,5 +1,5 @@
 <?php
-echo "<html><body bgColor=#99ffff> ";
+echo "<html><body bgColor=#ffffcc> ";
        
             echo "<br><br><center><span style='color: black; 
 		font-family: Comic Sans MS, cursive, sans-serif; 
