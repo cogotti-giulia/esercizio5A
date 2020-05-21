@@ -3,7 +3,7 @@ echo "<html><body bgColor=#f6f6f6> ";
        
             echo "<br><br><center><span style='color: black; 
 		font-family: Comic Sans MS, cursive, sans-serif; 
-		font-size:350%; text-shadow: 2px 2px lightgrey ;'>HEROKU with GITHUB</span>"; 
+		font-size:350%; text-shadow: 3px 3px yellow ;'>HEROKU with GITHUB</span>"; 
 			
 		echo "<br><br><span style='font-family: monospace; font-size:170%; '>made by
 		<font color=#cc0000>Cogotti Giulia</font> - 
@@ -12,6 +12,7 @@ echo "<html><body bgColor=#f6f6f6> ";
 		<font color=#33cc33>Soru Alessio</font>
 		<br><br>";
 
+		echo "<div style='border: 2px solid yellow;'>";
             for($r=0; $r<8; $r++){ //scorre le righe
                 /*align allinea la tabella al centro della pagina, rules=all toglie lo spazio tra le celle*/
                 echo "<table   align=center rules=all> <tr> ";
@@ -22,7 +23,7 @@ echo "<html><body bgColor=#f6f6f6> ";
                         else
                             echo "<td height=50 width=50; bgColor=white>"; 
                     }
-                echo "</tr> </table>";
+                echo "</tr> </table></div>";
 
             }
 
