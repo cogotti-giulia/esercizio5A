@@ -5,14 +5,14 @@ echo "<html><body style='	background-image: url(bg.png);
 	background-position: 50% 50%;
 	background-attachment: absolute;'> ";
        
-            echo "<br><br><center><img src=heroku.png width=100px></img><span style='color: black;
+            echo "<br><br><center><img src=heroku.png width=100px></img><span style='color: #00f4f4;
 		font-family: Comic Sans MS, cursive, sans-serif; 
 		font-size:350%; text-shadow: 2px 2px cyan ;'>HEROKU with GITHUB</span><img src=git.png width=100px></img>"; 
 			
 		echo "<br><br><span style='font-family: monospace; font-size:170%; '>made by
-		<font color=#cc0000>Cogotti Giulia</font> - 
+		<font color=#ffff00>Cogotti Giulia</font> - 
 		<font color=#0000b3>Matta Francesco</font>-
-		<font color=#ff6600>Fadda Davide</font> -
+		<font color=#0099ff>Fadda Davide</font> -
 		<font color=#ff00ff>Soru Alessio</font>
 		<br><br>";
 
