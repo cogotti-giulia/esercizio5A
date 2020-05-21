@@ -7,9 +7,9 @@ echo "<html><body bgColor=#ffffcc> ";
 			
 		echo "<br><br><span style='font-family: monospace; font-size:170%; '>made by
 		<font color=#cc0000>Cogotti Giulia</font> - 
-		<font color=#000066>Matta Francesco</font>-
+		<font color=#00ccff>Matta Francesco</font>-
 		<font color=#ff6600>Fadda Davide</font> -
-		<font color=#33cc33>Soru Alessio</font>
+		<font color=#ff00ff>Soru Alessio</font>
 		<br><br>";
 
             for($r=0; $r<8; $r++){ //scorre le righe
