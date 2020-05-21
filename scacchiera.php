@@ -3,7 +3,7 @@ echo "<html><body bgcolor=#ffffe5> ";
        
             echo "<br><br><center><span style='color: black;
 		font-family: Comic Sans MS, cursive, sans-serif; 
-		font-size:350%; text-shadow: 2px 2px yellow ;;'>HEROKU with GITHUB</span>"; 
+		font-size:350%; text-shadow: 2px 2px cyan ;;'>HEROKU with GITHUB</span>"; 
 			
 		echo "<br><br><span style='font-family: monospace; font-size:170%; '>made by
 		<font color=#cc0000>Cogotti Giulia</font> - 
