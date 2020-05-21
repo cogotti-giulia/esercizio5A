@@ -1,5 +1,5 @@
 <?php
-echo "<html><body bgcolor=#fffffd> ";
+echo "<html><body bgcolor=#ffe5e5> ";
        
             echo "<br><br><center><span style='color: black;
 		font-family: Comic Sans MS, cursive, sans-serif; 
@@ -20,7 +20,7 @@ echo "<html><body bgcolor=#fffffd> ";
                         if(($c+$r)%2==1)
                             echo "<td height=50 width=50 bgColor=black>"; 
                         else
-                            echo "<td height=50 width=50; bgColor=white>"; 
+                            echo "<td height=50 width=50; bgColor=yellow>"; 
                     }
                 echo "</tr> </table>";
 
