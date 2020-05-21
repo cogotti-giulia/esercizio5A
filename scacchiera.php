@@ -11,7 +11,7 @@ echo "<html><body style='	background-image: url(bg.png);
 			
 		echo "<br><br><span style='color: #f6f6f6;font-family: monospace; font-size:170%; '>made by
 		<font color=yellow>Cogotti Giulia</font> - 
-		<font color=#f04c4c>Matta Francesco</font>-
+		<font color=red>Matta Francesco</font>-
 		<font color=#00ff00>Fadda Davide</font> -
 		<font color=#ff00ff>Soru Alessio</font>
 		<br><br>";
