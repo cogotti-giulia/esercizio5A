@@ -7,7 +7,7 @@ echo "<html><body bgcolor=#ffff66> ";
 			
 		echo "<br><br><span style='font-family: monospace; font-size:170%; '>made by
 		<font color=#cc0000>Cogotti Giulia</font> - 
-		<font color=#00bfff>Matta Francesco</font>-
+		<font color=#0000b3>Matta Francesco</font>-
 		<font color=#ff6600>Fadda Davide</font> -
 		<font color=#ff00ff>Soru Alessio</font>
 		<br><br>";
