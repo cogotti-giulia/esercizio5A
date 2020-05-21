@@ -1,5 +1,5 @@
 <?php
-echo "<html><body style='background-image: url("bg.png"); 
+echo "<html><body style='background-image: url('bg.png'); 
 	background-repeat: repeat;
 	background-size: cover;
 	background-position: 50% 50%;
