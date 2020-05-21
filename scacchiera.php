@@ -1,7 +1,7 @@
 <?php
 echo "<html><body bgcolor=#ffff66> ";
        
-            echo "<br><br><center><span style='color: black;
+            echo "<br><br><center><img src='heroku.png'></img><span style='color: black;
 		font-family: Comic Sans MS, cursive, sans-serif; 
 		font-size:350%; text-shadow: 2px 2px cyan ;'>HEROKU with GITHUB</span>"; 
 			
