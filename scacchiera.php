@@ -1,13 +1,9 @@
 <?php
-echo "<html><body style='background-image: url('bg.png'); 
-	background-repeat: repeat;
-	background-size: cover;
-	background-position: 50% 50%;
-	background-attachment: absolute;'> ";
+echo "<html><body bgcolor=#fffffd> ";
        
-            echo "<br><br><center><span style='color: #00f4f4;
+            echo "<br><br><center><span style='color: black;
 		font-family: Comic Sans MS, cursive, sans-serif; 
-		font-size:350%; ;'>HEROKU with GITHUB</span>"; 
+		font-size:350%; text-shadow: 2px 2px yellow ;;'>HEROKU with GITHUB</span>"; 
 			
 		echo "<br><br><span style='font-family: monospace; font-size:170%; '>made by
 		<font color=#cc0000>Cogotti Giulia</font> - 
