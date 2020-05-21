@@ -1,7 +1,11 @@
 <?php
 echo "<html><body bgColor=yellow> ";
        
-            echo "<br><br><center>";
+            echo "<br><br><center><span style='color:#000080; 
+		font-family: Comic Sans MS, cursive, sans-serif; 
+		font-size:350%; text-shadow: 4px 4px #ccccff ;'>HEROKU with GITHUB</span>"; 
+			
+		
 
             for($r=0; $r<8; $r++){ //scorre le righe
                 /*align allinea la tabella al centro della pagina, rules=all toglie lo spazio tra le celle*/
@@ -17,28 +21,10 @@ echo "<html><body bgColor=yellow> ";
 
             }
 
-       echo "<br>cogotti giulia</center>";
 
 
-        for($I=1; $I<=5; $I++){
-           for($J=1; $J<=5; $J++){
-                if($J<=$I)
-                    echo"&nbsp;&nbsp;*&nbsp;&nbsp;";
-                else
-                    echo"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
 
-                if($J>=$I)
-
-                   echo"&nbsp;&nbsp;*&nbsp;&nbsp;";
-
-
-                else
-                    echo"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-
-                
-            }
-              echo "<br>";
-        }
+     
 
 echo " </body></html>";
 ?>
