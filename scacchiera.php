@@ -1,9 +1,13 @@
 <?php
-echo "<html><body bgcolor=#ffff66> ";
+echo "<html><body style='	background-image: url(hex.png);
+	background-repeat: repeat;
+
+	background-position: 50% 50%;
+	background-attachment: absolute;'> ";
        
-            echo "<br><br><center><img src=heroku.png></img><span style='color: black;
+            echo "<br><br><center><img src=heroku.png width=100px></img><span style='color: black;
 		font-family: Comic Sans MS, cursive, sans-serif; 
-		font-size:350%; text-shadow: 2px 2px cyan ;'>HEROKU with GITHUB</span>"; 
+		font-size:350%; text-shadow: 2px 2px cyan ;'>HEROKU with GITHUB</span><img src=git.png width=100px></img>"; 
 			
 		echo "<br><br><span style='font-family: monospace; font-size:170%; '>made by
 		<font color=#cc0000>Cogotti Giulia</font> - 
