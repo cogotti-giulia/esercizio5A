@@ -10,9 +10,9 @@ echo "<html><body style='	background-image: url(bg.png);
 		font-size:350%; text-shadow: 2px 2px cyan ;'>HEROKU with GITHUB</span><img src=git.png width=100px></img>"; 
 			
 		echo "<br><br><span style='color: #f6f6f6;font-family: monospace; font-size:170%; '>made by
-		<font color=#ffff00>Cogotti Giulia</font> - 
-		<font color=#0000b3>Matta Francesco</font>-
-		<font color=#0099ff>Fadda Davide</font> -
+		<font color=#ffcc00>Cogotti Giulia</font> - 
+		<font color=#0099ff>Matta Francesco</font>-
+		<font color=#00ff00>Fadda Davide</font> -
 		<font color=#ff00ff>Soru Alessio</font>
 		<br><br>";
 
